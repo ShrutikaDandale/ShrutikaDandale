@@ -22,6 +22,7 @@
 <a href="https://instagram.com/shrutika_dandale07">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
@@ -103,8 +104,6 @@
 
 # 🐍 Contribution Snake
 
-> Requires GitHub Actions workflow.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -117,10 +116,13 @@
 Learning:
   - Advanced Java
   - DSA
+
 Building:
   - Full Stack Projects
+
 Exploring:
   - AI/ML
+
 OpenTo:
   - Internships
   - Open Source
