@@ -9,11 +9,10 @@
 
 # Hi there, I'm Shrutika Dandale 👋
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;Data+Structures+%26+Algorithms;AI%2FML+Enthusiast;Building+Real+World+Applications"/>
 
-
 </div>
+
 
 ---
 
@@ -295,90 +294,3 @@ Goals:
   - Software Engineering Internship
   - AI/ML Internship
   - Open Source Contribution
-
----
-
-# 🌱 Currently Learning
-
-<table align="center">
-
-<tr>
-
-<td>☕ Advanced Java</td>
-
-<td>📚 Data Structures & Algorithms</td>
-
-<td>🤖 Machine Learning</td>
-
-</tr>
-
-<tr>
-
-<td>⚛️ React Development</td>
-
-<td>🌐 Full Stack Development</td>
-
-<td>🚀 AI Powered Applications</td>
-
-</tr>
-
-</table>
-
-
----
-
-# 🤝 Connect With Me
-
-
-<div align="center">
-
-
-<a href="https://github.com/ShrutikaDandale">
-
-<img src="https://img.shields.io/badge/GitHub-ShrutikaDandale-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-
-<a href="mailto:shrutikadandale93@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://linkedin.com/in/shrutika-dandale-795828342">
-
-<img src="https://img.shields.io/badge/LinkedIn-Shrutika%20Dandale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-<a href="https://instagram.com/shrutika_dandale07">
-
-<img src="https://img.shields.io/badge/Instagram-shrutika_dandale07-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
-
-</div>
-
-
----
-
-<div align="center">
-
-
-### ⭐ Thanks for visiting my GitHub Profile!
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-
-<br><br>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
-
-
-</div>
