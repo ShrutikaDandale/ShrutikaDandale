@@ -1,348 +1,231 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Shrutika%20Dandale&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Student%20•%20Java%20Developer%20•%20AI/ML%20Enthusiast&descAlignY=55"/>
-
-</div>
-
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Shrutika%20Dandale&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student%20•%20Java%20Developer%20•%20AI/ML%20Enthusiast&descAlignY=55"/>
 
 # Hi there, I'm Shrutika Dandale 👋
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;Data+Structures+%26+Algorithms;AI%2FML+Enthusiast;Building+Real+World+Applications"/>
+<br>
 
+<a href="https://github.com/ShrutikaDandale">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shrutika-dandale-795828342">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shrutikadandale93@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/shrutika_dandale07">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ShrutikaDandale&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
-
 ---
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShrutikaDandale&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ShrutikaDandale?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/ShrutikaDandale?style=for-the-badge&logo=github"/>
-
-</p>
-
 
 # 👩‍💻 About Me
 
-
-I'm **Shrutika Dandale**, a passionate **Computer Science Engineering Student**, **Java Developer**, and **AI/ML Enthusiast** focused on building innovative and practical software solutions.
-
-
-My interests include **Software Development**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, **Data Structures & Algorithms**, and solving real-world problems using technology.
-
-
-I enjoy building projects, participating in hackathons, exploring new technologies, and continuously improving my programming and problem-solving skills.
-
+- 🎓 3rd Year Computer Science Engineering Student
+- ☕ Java Developer
+- 🤖 AI/ML Enthusiast
+- 💻 Full Stack Web Developer
+- 📚 Learning Data Structures & Algorithms
+- 🚀 Interested in Open Source & Hackathons
+- 💼 Looking for Internship Opportunities
 
 ---
 
 # 🚀 Tech Stack
 
+### Languages
 
-## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js"/>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css"/>
-
-</p>
-
-
-## ⚛️ Frontend Development
-
-<p>
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 
-</p>
-
-
-## 🔧 Backend & Database
-
-<p>
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase"/>
 
-</p>
-
-
-## 🤖 AI / ML
-
-<p>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
-
-</p>
-
-
-## 🛠 Tools
-
-<p>
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
-
 
 ---
 
 # 🚀 Featured Projects
 
-
 <details>
+<summary><b>🤖 SkillOrbit AI</b></summary>
 
-<summary><b>🤖 SkillOrbit AI — AI Powered Career Guidance Platform</b></summary>
+AI Powered Career Guidance Platform with:
 
-
-<br>
-
-
-An AI-powered career guidance platform that analyzes skills, identifies gaps, and generates personalized learning roadmaps.
-
-
-| Attribute | Details |
-|------------|---------|
-| Role | Frontend Developer |
-| Tech Stack | React • Tailwind CSS • AI/ML |
-| Features | ATS Score • Skill Analysis • Career Roadmap |
-| Focus | AI • Full Stack Development |
-
-
-### ✨ Highlights
-
-- Resume ATS Score Analysis
-- AI Skill Gap Detection
-- Company Wise Analysis
-- Personalized Career Roadmap
+- ATS Score Analysis
+- Skill Gap Detection
+- Personalized Roadmap
 - Modern Responsive UI
 
-
 </details>
-
 
 ---
 
-
 <details>
+<summary><b>🖐️ Hand Gesture Recognition</b></summary>
 
-<summary><b>🖐️ Hand Gesture Recognition System</b></summary>
-
-
-<br>
-
-
-A computer vision project that detects hand gestures using real-time camera input.
-
-
-| Attribute | Details |
-|------------|---------|
-| Role | AI/ML Developer |
-| Tech Stack | Python • MediaPipe • Computer Vision |
-| Focus | AI • Machine Learning |
-
-
-### ✨ Highlights
-
-- Real Time Hand Tracking
-- Gesture Recognition
-- Computer Vision Implementation
-- Interactive Experience
-
+Computer Vision project using **Python** and **MediaPipe**.
 
 </details>
 
-
 ---
 
-
 <details>
-
 <summary><b>🎵 Spotify Clone</b></summary>
 
-
-<br>
-
-
-A responsive music streaming interface inspired by Spotify.
-
-
-| Attribute | Details |
-|------------|---------|
-| Role | Frontend Developer |
-| Tech Stack | HTML • CSS • JavaScript |
-| Focus | Frontend Development |
-
-
-### ✨ Highlights
-
-- Responsive UI
-- Modern Layout
-- Interactive Components
-- Clean User Experience
-
+Responsive Spotify UI built using HTML, CSS & JavaScript.
 
 </details>
-
 
 ---
 
-
 <details>
-
 <summary><b>🛒 Amazon Clone</b></summary>
 
-
-<br>
-
-
-A responsive e-commerce website inspired by Amazon.
-
-
-| Attribute | Details |
-|------------|---------|
-| Role | Frontend Developer |
-| Tech Stack | HTML • CSS |
-| Focus | Web Development |
-
-
-### ✨ Highlights
-
-- Product Layout
-- Responsive Design
-- E-commerce Interface
-- Modern UI
-
+Responsive Amazon homepage clone using HTML & CSS.
 
 </details>
-
 
 ---
 
 # 📊 GitHub Analytics
 
-
 <div align="center">
 
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=ShrutikaDandale&theme=tokyonight&hide_border=true"/>
 
-
 </div>
-
 
 <br>
 
-
 <div align="center">
 
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 ---
 
-# 📈 Contribution Activity
-
+# 📈 Contribution Graph
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutikaDandale&theme=tokyo-night&hide_border=true&area=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutikaDandale&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 
 ---
 
 # 🏆 GitHub Trophies
 
-
 <div align="center">
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShrutikaDandale&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ShrutikaDandale&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
 
 ---
 
 # 🐍 Contribution Snake
 
-
 <div align="center">
 
-
 <picture>
-
-
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg">
-
-
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake.svg">
-
-
 <img src="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg">
-
-
 </picture>
 
-
 </div>
-
 
 ---
 
 # 🎯 Current Focus
 
-
 ```yaml
-Education:
-  Degree: B.Tech Computer Science Engineering
-  Year: 3rd Year
-
-
 Learning:
   - Advanced Java
-  - Data Structures & Algorithms
+  - DSA
   - Machine Learning
-  - Full Stack Development
-
 
 Building:
   - SkillOrbit AI
-  - AI Powered Applications
-  - Hackathon Projects
-
+  - Full Stack Projects
 
 Exploring:
-  - Artificial Intelligence
   - Open Source
-  - System Design
+  - AI Applications
 
+Open To:
+  - Internships
+  - Collaborations
+  - Hackathons
+```
 
-Goals:
-  - Software Engineering Internship
-  - AI/ML Internship
-  - Contribute to Open Source
+---
+
+# 🌱 Currently Learning
+
+| 🚀 | 📚 | 💻 |
+|:--:|:--:|:--:|
+| Advanced Java | DSA | React |
+| Machine Learning | Full Stack | System Design |
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ShrutikaDandale">
+<img src="https://img.shields.io/badge/GitHub-ShrutikaDandale-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shrutika-dandale-795828342">
+<img src="https://img.shields.io/badge/LinkedIn-Shrutika%20Dandale-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shrutikadandale93@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/shrutika_dandale07">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20"/>
+
+</div>
