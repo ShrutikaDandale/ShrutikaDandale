@@ -9,7 +9,9 @@
 
 # Hi there, I'm Shrutika Dandale 👋
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;Data+Structures+%26+Algorithms;AI%2FML+Enthusiast;Building+Real+World+Applications"/>
+
 
 </div>
 
@@ -29,9 +31,12 @@
 
 # 👩‍💻 About Me
 
+
 I'm **Shrutika Dandale**, a passionate **Computer Science Engineering Student**, **Java Developer**, and **AI/ML Enthusiast** focused on building innovative and practical software solutions.
 
+
 My interests include **Software Development**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, **Data Structures & Algorithms**, and solving real-world problems using technology.
+
 
 I enjoy building projects, participating in hackathons, exploring new technologies, and continuously improving my programming and problem-solving skills.
 
@@ -41,7 +46,7 @@ I enjoy building projects, participating in hackathons, exploring new technologi
 # 🚀 Tech Stack
 
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 
@@ -50,7 +55,7 @@ I enjoy building projects, participating in hackathons, exploring new technologi
 </p>
 
 
-### ⚛️ Frontend Development
+## ⚛️ Frontend Development
 
 <p>
 
@@ -59,7 +64,7 @@ I enjoy building projects, participating in hackathons, exploring new technologi
 </p>
 
 
-### 🔧 Backend & Database
+## 🔧 Backend & Database
 
 <p>
 
@@ -68,7 +73,7 @@ I enjoy building projects, participating in hackathons, exploring new technologi
 </p>
 
 
-### 🤖 AI / ML
+## 🤖 AI / ML
 
 <p>
 
@@ -83,7 +88,7 @@ I enjoy building projects, participating in hackathons, exploring new technologi
 </p>
 
 
-### 🛠 Tools
+## 🛠 Tools
 
 <p>
 
@@ -101,16 +106,20 @@ I enjoy building projects, participating in hackathons, exploring new technologi
 
 <summary><b>🤖 SkillOrbit AI — AI Powered Career Guidance Platform</b></summary>
 
+
 <br>
+
 
 An AI-powered career guidance platform that analyzes skills, identifies gaps, and generates personalized learning roadmaps.
 
+
 | Attribute | Details |
-|---|---|
+|------------|---------|
 | Role | Frontend Developer |
 | Tech Stack | React • Tailwind CSS • AI/ML |
 | Features | ATS Score • Skill Analysis • Career Roadmap |
 | Focus | AI • Full Stack Development |
+
 
 ### ✨ Highlights
 
@@ -119,6 +128,7 @@ An AI-powered career guidance platform that analyzes skills, identifies gaps, an
 - Company Wise Analysis
 - Personalized Career Roadmap
 - Modern Responsive UI
+
 
 </details>
 
@@ -130,15 +140,19 @@ An AI-powered career guidance platform that analyzes skills, identifies gaps, an
 
 <summary><b>🖐️ Hand Gesture Recognition System</b></summary>
 
+
 <br>
+
 
 A computer vision project that detects hand gestures using real-time camera input.
 
+
 | Attribute | Details |
-|---|---|
+|------------|---------|
 | Role | AI/ML Developer |
 | Tech Stack | Python • MediaPipe • Computer Vision |
 | Focus | AI • Machine Learning |
+
 
 ### ✨ Highlights
 
@@ -146,6 +160,7 @@ A computer vision project that detects hand gestures using real-time camera inpu
 - Gesture Recognition
 - Computer Vision Implementation
 - Interactive Experience
+
 
 </details>
 
@@ -157,15 +172,19 @@ A computer vision project that detects hand gestures using real-time camera inpu
 
 <summary><b>🎵 Spotify Clone</b></summary>
 
+
 <br>
+
 
 A responsive music streaming interface inspired by Spotify.
 
+
 | Attribute | Details |
-|---|---|
+|------------|---------|
 | Role | Frontend Developer |
 | Tech Stack | HTML • CSS • JavaScript |
 | Focus | Frontend Development |
+
 
 ### ✨ Highlights
 
@@ -173,6 +192,7 @@ A responsive music streaming interface inspired by Spotify.
 - Modern Layout
 - Interactive Components
 - Clean User Experience
+
 
 </details>
 
@@ -184,15 +204,19 @@ A responsive music streaming interface inspired by Spotify.
 
 <summary><b>🛒 Amazon Clone</b></summary>
 
+
 <br>
+
 
 A responsive e-commerce website inspired by Amazon.
 
+
 | Attribute | Details |
-|---|---|
+|------------|---------|
 | Role | Frontend Developer |
 | Tech Stack | HTML • CSS |
 | Focus | Web Development |
+
 
 ### ✨ Highlights
 
@@ -200,6 +224,7 @@ A responsive e-commerce website inspired by Amazon.
 - Responsive Design
 - E-commerce Interface
 - Modern UI
+
 
 </details>
 
@@ -211,16 +236,24 @@ A responsive e-commerce website inspired by Amazon.
 
 <div align="center">
 
+
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
+
 <img height="170" src="https://streak-stats.demolab.com?user=ShrutikaDandale&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
 
+<br>
+
+
 <div align="center">
 
+
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
@@ -232,7 +265,9 @@ A responsive e-commerce website inspired by Amazon.
 
 <div align="center">
 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutikaDandale&theme=tokyo-night&hide_border=true&area=true"/>
+
 
 </div>
 
@@ -244,7 +279,9 @@ A responsive e-commerce website inspired by Amazon.
 
 <div align="center">
 
+
 <img src="https://github-profile-trophy.vercel.app/?username=ShrutikaDandale&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
 
 </div>
 
@@ -256,15 +293,21 @@ A responsive e-commerce website inspired by Amazon.
 
 <div align="center">
 
+
 <picture>
+
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg">
 
+
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake.svg">
+
 
 <img src="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg">
 
+
 </picture>
+
 
 </div>
 
@@ -279,18 +322,27 @@ Education:
   Degree: B.Tech Computer Science Engineering
   Year: 3rd Year
 
+
 Learning:
   - Advanced Java
   - Data Structures & Algorithms
   - Machine Learning
   - Full Stack Development
 
+
 Building:
   - SkillOrbit AI
   - AI Powered Applications
   - Hackathon Projects
 
+
+Exploring:
+  - Artificial Intelligence
+  - Open Source
+  - System Design
+
+
 Goals:
   - Software Engineering Internship
   - AI/ML Internship
-  - Open Source Contribution
+  - Contribute to Open Source
