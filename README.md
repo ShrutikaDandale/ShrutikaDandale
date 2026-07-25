@@ -1,176 +1,286 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Shrutika%20Dandale&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shrutika%20Dandale&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Student%20•%20Java%20Developer%20•%20AI/ML%20Enthusiast&descAlignY=55"/>
 
-<h1>Hi 👋, I'm Shrutika Dandale</h1>
+</div>
 
-<h3>💻 Computer Science Student | ☕ Java Developer | 🤖 AI/ML Enthusiast</h3>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Data+Structures+%26+Algorithms;Full+Stack+Web+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies"/>
+# Hi there, I'm Shrutika Dandale 👋
 
-<br>
-
-<a href="https://linkedin.com/in/shrutika-dandale-795828342">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ShrutikaDandale">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:shrutikadandale93@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/shrutika_dandale07">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ShrutikaDandale&style=for-the-badge&color=blueviolet"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;Data+Structures+%26+Algorithms;AI%2FML+Enthusiast;Building+Real+World+Applications"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+<p align="center">
 
-- 🎓 3rd Year Computer Science Engineering Student
-- ☕ Passionate Java Developer
-- 📚 Solving Data Structures & Algorithms Problems
-- 🌐 Building Responsive Web Applications
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🚀 Interested in Open Source & Real World Projects
-- 💼 Looking for Internship Opportunities
+<img src="https://komarev.com/ghpvc/?username=ShrutikaDandale&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/github/followers/ShrutikaDandale?style=for-the-badge&logo=github"/>
 
-# 💻 Tech Stack
+<img src="https://img.shields.io/github/stars/ShrutikaDandale?style=for-the-badge&logo=github"/>
 
-<div align="center">
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,mysql,git,github,vscode,tensorflow,pytorch,pandas,numpy,netlify&perline=6"/>
 
-</div>
+# 👩‍💻 About Me
 
----
+I'm **Shrutika Dandale**, a passionate **Computer Science Engineering Student**, **Java Developer**, and **AI/ML Enthusiast** focused on building innovative and practical software solutions.
 
-# 📈 GitHub Analytics
+My interests include **Software Development**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, **Data Structures & Algorithms**, and creating technology that solves real-world problems.
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=ShrutikaDandale&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+I enjoy participating in hackathons, building projects, exploring new technologies, and continuously improving my programming and problem-solving skills.
 
 ---
 
-# 📊 Contribution Graph
+# 🚀 Tech Stack
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutikaDandale&theme=tokyo-night&hide_border=true"/>
+### 💻 Programming Languages
 
-</div>
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css"/>
 
-# 🏆 GitHub Trophies
+</p>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShrutikaDandale&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15"/>
+### ⚛️ Frontend Development
 
-</div>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+
+</p>
+
+
+### 🔧 Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase"/>
+
+</p>
+
+
+### 🤖 AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+
+</p>
+
+
+### 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌍 Air Quality Analysis
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Data Visualization
+<details>
+
+<summary><b>🤖 SkillOrbit AI — AI Powered Career Guidance Platform</b></summary>
+
+<br>
+
+An AI-powered platform that helps students analyze skills, identify gaps, and generate personalized career roadmaps.
+
+| Attribute | Details |
+|------------|---------|
+| **Role** | Frontend Developer |
+| **Tech Stack** | React • Tailwind CSS • AI/ML • APIs |
+| **Features** | ATS Score • Skill Analysis • Career Roadmap |
+| **Focus** | AI • Full Stack Development • Career Guidance |
+
+### ✨ Highlights
+
+- AI Based Skill Gap Analysis
+- Resume ATS Score
+- Company Wise Analysis
+- Personalized Learning Roadmap
+- Modern Responsive UI
+
+</details>
+
 
 ---
 
-### 🌐 Portfolio Website
 
-- HTML
-- CSS
-- JavaScript
+<details>
+
+<summary><b>🖐️ Hand Gesture Recognition System</b></summary>
+
+<br>
+
+A computer vision project that detects hand gestures using real-time camera input.
+
+| Attribute | Details |
+|------------|---------|
+| **Role** | AI/ML Developer |
+| **Tech Stack** | Python • MediaPipe • Computer Vision |
+| **Focus** | AI • Machine Learning • Gesture Recognition |
+
+### ✨ Highlights
+
+- Real Time Hand Tracking
+- Gesture Detection
+- Computer Vision Implementation
+- Interactive Experience
+
+</details>
+
+
+---
+
+
+<details>
+
+<summary><b>🎵 Spotify Clone</b></summary>
+
+<br>
+
+A responsive music streaming interface inspired by Spotify.
+
+| Attribute | Details |
+|------------|---------|
+| **Role** | Frontend Developer |
+| **Tech Stack** | HTML • CSS • JavaScript |
+| **Focus** | Frontend Development |
+
+### ✨ Highlights
+
+- Responsive UI
+- Modern Layout
+- Interactive Components
+- Clean User Experience
+
+</details>
+
+
+---
+
+
+<details>
+
+<summary><b>🛒 Amazon Clone</b></summary>
+
+<br>
+
+A responsive e-commerce website inspired by Amazon.
+
+| Attribute | Details |
+|------------|---------|
+| **Role** | Frontend Developer |
+| **Tech Stack** | HTML • CSS |
+| **Focus** | Web Development |
+
+### ✨ Highlights
+
+- Product Layout
 - Responsive Design
+- E-commerce UI
+- CSS Styling
+
+</details>
+
 
 ---
 
-# 🤖 AI / ML Journey
+# 📊 GitHub Analytics
 
-| Domain | Status |
-|---------|--------|
-| Python | ✅ |
-| Pandas | ✅ |
-| NumPy | ✅ |
-| Data Visualization | ✅ |
-| Machine Learning | 🚀 Learning |
-| TensorFlow | 🚀 Learning |
-| PyTorch | 🚀 Learning |
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img height="170" src="https://streak-stats.demolab.com?user=ShrutikaDandale&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
-# 🎯 Current Focus
+# 📈 Contribution Activity
 
-```yaml
-Learning:
-  - Advanced Java
-  - Data Structures & Algorithms
-  - Machine Learning
 
-Building:
-  - Full Stack Projects
-  - AI Applications
+<div align="center">
 
-Exploring:
-  - Open Source
-  - System Design
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutikaDandale&theme=tokyo-night&hide_border=true&area=true"/>
 
-Open To:
-  - Internships
-  - Collaborations
-  - Hackathons
-```
+</div>
+
 
 ---
 
 # 🐍 Contribution Snake
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/ShrutikaDandale/ShrutikaDandale/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
 
 </div>
+
 
 ---
 
-<div align="center">
+# 🎯 Current Focus
 
-## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+```yaml
+Education:
+  Degree: B.Tech Computer Science Engineering
+  Year: 3rd Year
 
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20"/>
+Learning:
+  - Advanced Java
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Full Stack Development
+
+
+Building:
+  - AI Powered Applications
+  - Full Stack Projects
+  - Hackathon Projects
+
+
+Goals:
+  - Software Engineering Internship
+  - AI/ML Internship
+  - Open Source Contribution
