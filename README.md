@@ -111,9 +111,11 @@ Responsive Amazon homepage clone using HTML & CSS.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=ShrutikaDandale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=ShrutikaDandale&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://streak-stats.demolab.com?user=ShrutikaDandale&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -121,7 +123,8 @@ Responsive Amazon homepage clone using HTML & CSS.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutikaDandale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
